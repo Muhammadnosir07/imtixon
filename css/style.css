@@ -1,0 +1,73 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+}
+.chap{
+    position: relative;
+    left: 70px;
+    top: 33px;
+}
+.box1{
+    position: relative;
+    left: -720px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.box2{
+    position: relative;
+    left: -660px;
+    list-style: none;
+    text-decoration: none;
+    top: -35px;
+    color: black;
+}
+.box3{
+    position: relative;
+    left: -600px;
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    top: -68px;
+}
+.h3{
+    position: relative;
+    top: -60px;
+}
+.inner{
+    position: relative;
+    top: -50px;
+}
+.total{
+    position: relative;
+    top: -110px;
+    left: 130px;
+}
+.h3_qw{
+    position: relative;
+    top: -120px;
+}
+.footer{
+    position: relative;
+    top: -110px;
+}
+
+.ong{
+    position: relative;
+    left: 900px;
+    top: -468px;
+}
+.btn{
+    position: relative;
+    border-radius: 5px 5px 5px 5px ;
+    width: 80px;
+    color: wheat;
+    background-color: rgb(219, 73, 73);
+}
+.ciziq{
+    position: relative;
+    width: 1px black;
+    height: 100%;
+    left: 500px;
+}
